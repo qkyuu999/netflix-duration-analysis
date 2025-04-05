@@ -31,6 +31,6 @@ It investigates how the duration of Netflix movies and TV shows has changed in r
 
 ## 🧪 使用ツール・技術 / Tools & Techniques
 
-- Python（pandas, matplotlib, seaborn, statsmodels）
+- Python
 - JupyterLab
 - PowerPoint
